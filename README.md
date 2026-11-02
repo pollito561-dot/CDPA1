@@ -108,3 +108,4 @@ class ArrayAdapter {
         return list;
     }
 }
+<img width="642" height="176" alt="Screenshot 2026-11-01 at 8 41 39 PM" src="https://github.com/user-attachments/assets/f117b7b9-b4ec-472f-a8f1-3ee361a121c6" />
